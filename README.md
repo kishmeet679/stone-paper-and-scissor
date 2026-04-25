@@ -1,2 +1,3 @@
 # stone-paper-and-scissor
 This is a Stone , Paper and Scissor Game....!!!!
+A menu-driven  Stone Paper Scissors game built with python where the user plays against the computer with real time score tracking , round results aand overall winner declaration...
